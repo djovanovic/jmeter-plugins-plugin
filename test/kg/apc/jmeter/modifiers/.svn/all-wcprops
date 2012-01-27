@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1622/trunk/plugins/test/kg/apc/jmeter/modifiers
+END
+RawRequestSourcePreProcessorGuiTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/modifiers/RawRequestSourcePreProcessorGuiTest.java
+END
+rawdata_broken.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/modifiers/rawdata_broken.txt
+END
+rawdata_nonzeroterm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/modifiers/rawdata_nonzeroterm.txt
+END
+rawdata_crlf_metaline.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/modifiers/rawdata_crlf_metaline.txt
+END
+DNSJavaDecoderToRawData.out
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/modifiers/DNSJavaDecoderToRawData.out
+END
+rawdata_zeroterm_looped.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/modifiers/rawdata_zeroterm_looped.txt
+END
+RawRequestSourcePreProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1622/trunk/plugins/test/kg/apc/jmeter/modifiers/RawRequestSourcePreProcessorTest.java
+END
+ModifiersSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1542/trunk/plugins/test/kg/apc/jmeter/modifiers/ModifiersSuite.java
+END
+CheckConsistencyActionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/modifiers/CheckConsistencyActionTest.java
+END

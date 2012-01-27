@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/functions
+END
+DoubleSum.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/functions/DoubleSum.java
+END
+Substring.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/functions/Substring.java
+END
+LowerCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/functions/LowerCase.java
+END
+MD5.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/functions/MD5.java
+END
+StrLen.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/functions/StrLen.java
+END
+UpperCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/functions/UpperCase.java
+END
+IsDefined.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/functions/IsDefined.java
+END

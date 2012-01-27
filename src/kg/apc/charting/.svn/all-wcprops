@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1840/trunk/plugins/src/kg/apc/charting
+END
+CubicSpline.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1608/trunk/plugins/src/kg/apc/charting/CubicSpline.java
+END
+AbstractGraphPanelChartElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/charting/AbstractGraphPanelChartElement.java
+END
+ChartSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1840/trunk/plugins/src/kg/apc/charting/ChartSettings.java
+END
+DateTimeRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/charting/DateTimeRenderer.java
+END
+GraphPanelChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1840/trunk/plugins/src/kg/apc/charting/GraphPanelChart.java
+END
+ColorsDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/charting/ColorsDispatcher.java
+END
+GraphModelToCsvExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1813/trunk/plugins/src/kg/apc/charting/GraphModelToCsvExporter.java
+END
+DividerRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/charting/DividerRenderer.java
+END
+AbstractGraphRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1608/trunk/plugins/src/kg/apc/charting/AbstractGraphRow.java
+END

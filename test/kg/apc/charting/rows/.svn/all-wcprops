@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1660/trunk/plugins/test/kg/apc/charting/rows
+END
+GraphRowSimpleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/charting/rows/GraphRowSimpleTest.java
+END
+RowsSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1660/trunk/plugins/test/kg/apc/charting/rows/RowsSuite.java
+END
+GraphRowAveragesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/charting/rows/GraphRowAveragesTest.java
+END
+GraphRowPercentilesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/charting/rows/GraphRowPercentilesTest.java
+END
+GraphRowOverallAveragesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/charting/rows/GraphRowOverallAveragesTest.java
+END
+GraphRowExactValuesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/charting/rows/GraphRowExactValuesTest.java
+END
+GraphRowSumValuesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/charting/rows/GraphRowSumValuesTest.java
+END

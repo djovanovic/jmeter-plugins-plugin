@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1660/trunk/plugins/test/kg/apc/charting/plotters
+END
+CSplineRowPlotterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1631/trunk/plugins/test/kg/apc/charting/plotters/CSplineRowPlotterTest.java
+END
+AbstractRowPlotterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1630/trunk/plugins/test/kg/apc/charting/plotters/AbstractRowPlotterTest.java
+END
+PlottersSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1660/trunk/plugins/test/kg/apc/charting/plotters/PlottersSuite.java
+END
+BarRowPlotterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1630/trunk/plugins/test/kg/apc/charting/plotters/BarRowPlotterTest.java
+END
+LineRowPlotterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1630/trunk/plugins/test/kg/apc/charting/plotters/LineRowPlotterTest.java
+END

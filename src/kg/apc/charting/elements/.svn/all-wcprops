@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/charting/elements
+END
+GraphPanelChartExactElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/charting/elements/GraphPanelChartExactElement.java
+END
+GraphPanelChartSumElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/charting/elements/GraphPanelChartSumElement.java
+END
+GraphPanelChartSimpleElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/charting/elements/GraphPanelChartSimpleElement.java
+END
+GraphPanelChartAverageElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/charting/elements/GraphPanelChartAverageElement.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1871/trunk/plugins/test/kg/apc/jmeter/gui
+END
+BrowseActionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/gui/BrowseActionTest.java
+END
+CopyRowActionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/gui/CopyRowActionTest.java
+END
+ComponentBorderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1832/trunk/plugins/test/kg/apc/jmeter/gui/ComponentBorderTest.java
+END
+DialogFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1871/trunk/plugins/test/kg/apc/jmeter/gui/DialogFactoryTest.java
+END
+DeleteRowActionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/gui/DeleteRowActionTest.java
+END
+GuiBuilderHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/gui/GuiBuilderHelperTest.java
+END
+ButtonPanelAddCopyRemoveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1638/trunk/plugins/test/kg/apc/jmeter/gui/ButtonPanelAddCopyRemoveTest.java
+END
+JAbsrtactDialogPanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1869/trunk/plugins/test/kg/apc/jmeter/gui/JAbsrtactDialogPanelTest.java
+END
+GuiSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1542/trunk/plugins/test/kg/apc/jmeter/gui/GuiSuite.java
+END
+AddRowActionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/gui/AddRowActionTest.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1873/trunk/plugins/src/kg/apc/jmeter/gui
+END
+BrowseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/gui/BrowseAction.java
+END
+CopyRowAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/gui/CopyRowAction.java
+END
+ComponentBorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1832/trunk/plugins/src/kg/apc/jmeter/gui/ComponentBorder.java
+END
+DialogFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1873/trunk/plugins/src/kg/apc/jmeter/gui/DialogFactory.java
+END
+DeleteRowAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/gui/DeleteRowAction.java
+END
+GuiBuilderHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/gui/GuiBuilderHelper.java
+END
+JAbsrtactDialogPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1869/trunk/plugins/src/kg/apc/jmeter/gui/JAbsrtactDialogPanel.java
+END
+ButtonPanelAddCopyRemove.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1638/trunk/plugins/src/kg/apc/jmeter/gui/ButtonPanelAddCopyRemove.java
+END
+AddRowAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/gui/AddRowAction.java
+END

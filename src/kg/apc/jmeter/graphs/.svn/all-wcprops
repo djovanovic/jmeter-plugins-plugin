@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1879/trunk/plugins/src/kg/apc/jmeter/graphs
+END
+GraphPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1727/trunk/plugins/src/kg/apc/jmeter/graphs/GraphPanel.java
+END
+SettingsInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/graphs/SettingsInterface.java
+END
+AbstractVsThreadVisualizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/graphs/AbstractVsThreadVisualizer.java
+END
+CompositeNotifierInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/graphs/CompositeNotifierInterface.java
+END
+AbstractGraphPanelVisualizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1591/trunk/plugins/src/kg/apc/jmeter/graphs/AbstractGraphPanelVisualizer.java
+END
+ChartRowsTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/graphs/ChartRowsTable.java
+END
+JRowsSelectorPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1637/trunk/plugins/src/kg/apc/jmeter/graphs/JRowsSelectorPanel.java
+END
+ColorRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/graphs/ColorRenderer.java
+END
+JRowsSelectorPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/graphs/JRowsSelectorPanel.form
+END
+HeaderAsTextRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/graphs/HeaderAsTextRenderer.java
+END
+GraphRendererInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/graphs/GraphRendererInterface.java
+END
+HeaderClickCheckAllListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/graphs/HeaderClickCheckAllListener.java
+END
+AbstractOverTimeVisualizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1879/trunk/plugins/src/kg/apc/jmeter/graphs/AbstractOverTimeVisualizer.java
+END

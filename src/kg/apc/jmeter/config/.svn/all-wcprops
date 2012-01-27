@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1652/trunk/plugins/src/kg/apc/jmeter/config
+END
+VariableFromCsvFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1641/trunk/plugins/src/kg/apc/jmeter/config/VariableFromCsvFileReader.java
+END
+VariablesFromCSVFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/config/VariablesFromCSVFile.java
+END
+VariablesFromCSV.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1644/trunk/plugins/src/kg/apc/jmeter/config/VariablesFromCSV.java
+END
+TestCsvFileAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1647/trunk/plugins/src/kg/apc/jmeter/config/TestCsvFileAction.java
+END
+VariablesFromCSVFileBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1652/trunk/plugins/src/kg/apc/jmeter/config/VariablesFromCSVFileBeanInfo.java
+END
+VariablesFromCSVGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1648/trunk/plugins/src/kg/apc/jmeter/config/VariablesFromCSVGui.java
+END
+VariablesFromCSVFileResources.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1641/trunk/plugins/src/kg/apc/jmeter/config/VariablesFromCSVFileResources.properties
+END

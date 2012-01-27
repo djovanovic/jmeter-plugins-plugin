@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1889/trunk/plugins/test/kg/apc/jmeter
+END
+PluginsCMDWorkerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1673/trunk/plugins/test/kg/apc/jmeter/PluginsCMDWorkerTest.java
+END
+JmeterSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1802/trunk/plugins/test/kg/apc/jmeter/JmeterSuite.java
+END
+short.jtl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1675/trunk/plugins/test/kg/apc/jmeter/short.jtl
+END
+JMeterPluginsUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/JMeterPluginsUtilsTest.java
+END
+EndOfFileExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/EndOfFileExceptionTest.java
+END
+saveservice.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1675/trunk/plugins/test/kg/apc/jmeter/saveservice.properties
+END
+RuntimeEOFExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/RuntimeEOFExceptionTest.java
+END

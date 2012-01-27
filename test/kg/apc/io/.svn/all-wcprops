@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1542/trunk/plugins/test/kg/apc/io
+END
+DatagramChannelWithTimeoutsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/io/DatagramChannelWithTimeoutsTest.java
+END
+IoSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1542/trunk/plugins/test/kg/apc/io/IoSuite.java
+END
+SocketChannelWithTimeoutsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/io/SocketChannelWithTimeoutsTest.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1889/trunk/plugins/src/kg/apc/jmeter
+END
+PluginsCMDWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1802/trunk/plugins/src/kg/apc/jmeter/PluginsCMDWorker.java
+END
+JMeterPluginsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1845/trunk/plugins/src/kg/apc/jmeter/JMeterPluginsUtils.java
+END
+EndOfFileException.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/EndOfFileException.java
+END
+RuntimeEOFException.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/RuntimeEOFException.java
+END

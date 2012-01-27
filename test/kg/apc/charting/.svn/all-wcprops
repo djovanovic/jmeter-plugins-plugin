@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1840/trunk/plugins/test/kg/apc/charting
+END
+CubicSplineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1608/trunk/plugins/test/kg/apc/charting/CubicSplineTest.java
+END
+AbstractGraphPanelChartElementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/charting/AbstractGraphPanelChartElementTest.java
+END
+ChartSettingsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1840/trunk/plugins/test/kg/apc/charting/ChartSettingsTest.java
+END
+DateTimeRendererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/charting/DateTimeRendererTest.java
+END
+GraphPanelChartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1840/trunk/plugins/test/kg/apc/charting/GraphPanelChartTest.java
+END
+ColorsDispatcherTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/charting/ColorsDispatcherTest.java
+END
+ChartingSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1660/trunk/plugins/test/kg/apc/charting/ChartingSuite.java
+END
+GraphModelToCsvExporterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1813/trunk/plugins/test/kg/apc/charting/GraphModelToCsvExporterTest.java
+END
+export.csv
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/charting/export.csv
+END
+DividerRendererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/charting/DividerRendererTest.java
+END
+AbstractGraphRowTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1608/trunk/plugins/test/kg/apc/charting/AbstractGraphRowTest.java
+END

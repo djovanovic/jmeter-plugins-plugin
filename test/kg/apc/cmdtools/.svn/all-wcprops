@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1885/trunk/plugins/test/kg/apc/cmdtools
+END
+issue96.jtl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1802/trunk/plugins/test/kg/apc/cmdtools/issue96.jtl
+END
+ReporterToolTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1885/trunk/plugins/test/kg/apc/cmdtools/ReporterToolTest.java
+END
+issue96.comma.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1816/trunk/plugins/test/kg/apc/cmdtools/issue96.comma.txt
+END
+short.jtl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1802/trunk/plugins/test/kg/apc/cmdtools/short.jtl
+END
+few.jtl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1802/trunk/plugins/test/kg/apc/cmdtools/few.jtl
+END
+results_issue_47.jtl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1802/trunk/plugins/test/kg/apc/cmdtools/results_issue_47.jtl
+END
+issue96.semicolon.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1816/trunk/plugins/test/kg/apc/cmdtools/issue96.semicolon.txt
+END

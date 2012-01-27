@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1889/trunk/plugins/test/kg/apc/jmeter/samplers
+END
+SamplersSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1542/trunk/plugins/test/kg/apc/jmeter/samplers/SamplersSuite.java
+END
+testSendFile.raw
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/samplers/testSendFile.raw
+END
+HTTPRawSamplerDirectFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/samplers/HTTPRawSamplerDirectFileTest.java
+END
+HexStringUDPDecoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/samplers/HexStringUDPDecoderTest.java
+END
+DNSJavaDecoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1884/trunk/plugins/test/kg/apc/jmeter/samplers/DNSJavaDecoderTest.java
+END
+UDPSamplerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/samplers/UDPSamplerTest.java
+END
+HTTPRawSamplerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1802/trunk/plugins/test/kg/apc/jmeter/samplers/HTTPRawSamplerTest.java
+END
+UDPTrafficDecoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/samplers/UDPTrafficDecoderTest.java
+END
+DNSJavaTCPClientImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1889/trunk/plugins/test/kg/apc/jmeter/samplers/DNSJavaTCPClientImplTest.java
+END
+DummySamplerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/samplers/DummySamplerTest.java
+END
+AbstractIPSamplerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1884/trunk/plugins/test/kg/apc/jmeter/samplers/AbstractIPSamplerTest.java
+END
+UDPSamplerGuiTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/samplers/UDPSamplerGuiTest.java
+END
+testSendFile_1.raw
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/samplers/testSendFile_1.raw
+END
+HTTPRawSamplerGuiTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/samplers/HTTPRawSamplerGuiTest.java
+END
+DNSJavaDecoderToRawDataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/samplers/DNSJavaDecoderToRawDataTest.java
+END
+DummySamplerGuiTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/samplers/DummySamplerGuiTest.java
+END
+InfiniteGetTCPClientImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1633/trunk/plugins/test/kg/apc/jmeter/samplers/InfiniteGetTCPClientImplTest.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1542/trunk/plugins/test/kg/apc/jmeter/timers
+END
+VariableThroughputTimerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/timers/VariableThroughputTimerTest.java
+END
+VariableThroughputTimerGuiTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/timers/VariableThroughputTimerGuiTest.java
+END
+TimersSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1542/trunk/plugins/test/kg/apc/jmeter/timers/TimersSuite.java
+END

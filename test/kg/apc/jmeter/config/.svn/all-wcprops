@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1664/trunk/plugins/test/kg/apc/jmeter/config
+END
+ConfigSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1661/trunk/plugins/test/kg/apc/jmeter/config/ConfigSuite.java
+END
+csvFileTest.csv
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1645/trunk/plugins/test/kg/apc/jmeter/config/csvFileTest.csv
+END
+VariablesFromCSVFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/config/VariablesFromCSVFileTest.java
+END
+VariablesFromCSVTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1664/trunk/plugins/test/kg/apc/jmeter/config/VariablesFromCSVTest.java
+END
+VariableFromCsvFileReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1645/trunk/plugins/test/kg/apc/jmeter/config/VariableFromCsvFileReaderTest.java
+END
+TestCsvFileActionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1645/trunk/plugins/test/kg/apc/jmeter/config/TestCsvFileActionTest.java
+END
+VariablesFromCSVFileBeanInfoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/config/VariablesFromCSVFileBeanInfoTest.java
+END
+VariablesFromCSVGuiTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1645/trunk/plugins/test/kg/apc/jmeter/config/VariablesFromCSVGuiTest.java
+END

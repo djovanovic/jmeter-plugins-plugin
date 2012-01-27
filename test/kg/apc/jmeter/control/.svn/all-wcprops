@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1542/trunk/plugins/test/kg/apc/jmeter/control
+END
+ParameterizedControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/control/ParameterizedControllerTest.java
+END
+ParameterizedControllerGuiTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1531/trunk/plugins/test/kg/apc/jmeter/control/ParameterizedControllerGuiTest.java
+END
+ControlSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1542/trunk/plugins/test/kg/apc/jmeter/control/ControlSuite.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1809/trunk/plugins/src/kg/apc/jmeter/timers
+END
+VariableThroughputTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/timers/VariableThroughputTimer.java
+END
+VariableThroughputTimerGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1809/trunk/plugins/src/kg/apc/jmeter/timers/VariableThroughputTimerGui.java
+END

@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1878/trunk/plugins/src/kg/apc/jmeter/vizualizers
+END
+BytesThroughputOverTimeGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/vizualizers/BytesThroughputOverTimeGui.java
+END
+ThroughputVsThreadsGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/vizualizers/ThroughputVsThreadsGui.java
+END
+ResponseTimesDistributionGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1608/trunk/plugins/src/kg/apc/jmeter/vizualizers/ResponseTimesDistributionGui.java
+END
+CompositeResultCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/vizualizers/CompositeResultCollector.java
+END
+TimesVsThreadsGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/vizualizers/TimesVsThreadsGui.java
+END
+ThreadsStateOverTimeGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/vizualizers/ThreadsStateOverTimeGui.java
+END
+JSettingsPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1870/trunk/plugins/src/kg/apc/jmeter/vizualizers/JSettingsPanel.form
+END
+folder.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/vizualizers/folder.png
+END
+ResponseTimesOverTimeGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/vizualizers/ResponseTimesOverTimeGui.java
+END
+CorrectedResultCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/vizualizers/CorrectedResultCollector.java
+END
+CompositeModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/vizualizers/CompositeModel.java
+END
+LatenciesOverTimeGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/vizualizers/LatenciesOverTimeGui.java
+END
+treeLeaf.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/vizualizers/treeLeaf.png
+END
+rightArrow.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/vizualizers/rightArrow.png
+END
+folderLink.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/vizualizers/folderLink.png
+END
+ResponseTimesPercentilesGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/vizualizers/ResponseTimesPercentilesGui.java
+END
+JPerfmonParamsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1876/trunk/plugins/src/kg/apc/jmeter/vizualizers/JPerfmonParamsPanel.java
+END
+leftArrow.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/vizualizers/leftArrow.png
+END
+JCompositeRowsSelectorPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1604/trunk/plugins/src/kg/apc/jmeter/vizualizers/JCompositeRowsSelectorPanel.java
+END
+PerfMonGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1877/trunk/plugins/src/kg/apc/jmeter/vizualizers/PerfMonGui.java
+END
+logoSimple.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/vizualizers/logoSimple.png
+END
+HitsPerSecondGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1878/trunk/plugins/src/kg/apc/jmeter/vizualizers/HitsPerSecondGui.java
+END
+TransactionsPerSecondGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/vizualizers/TransactionsPerSecondGui.java
+END
+TotalTransactionsPerSecondGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/vizualizers/TotalTransactionsPerSecondGui.java
+END
+ResponseCodesPerSecondGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1877/trunk/plugins/src/kg/apc/jmeter/vizualizers/ResponseCodesPerSecondGui.java
+END
+JPerfmonParamsPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1872/trunk/plugins/src/kg/apc/jmeter/vizualizers/JPerfmonParamsPanel.form
+END
+AggregateReportGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1727/trunk/plugins/src/kg/apc/jmeter/vizualizers/AggregateReportGui.java
+END
+information.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/vizualizers/information.png
+END
+ThroughputOverTimeGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1531/trunk/plugins/src/kg/apc/jmeter/vizualizers/ThroughputOverTimeGui.java
+END
+CompositeGraphGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1840/trunk/plugins/src/kg/apc/jmeter/vizualizers/CompositeGraphGui.java
+END
+JCompositeRowsSelectorPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1604/trunk/plugins/src/kg/apc/jmeter/vizualizers/JCompositeRowsSelectorPanel.form
+END
+JSettingsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1870/trunk/plugins/src/kg/apc/jmeter/vizualizers/JSettingsPanel.java
+END
+wand.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1871/trunk/plugins/src/kg/apc/jmeter/vizualizers/wand.png
+END
+cross.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1872/trunk/plugins/src/kg/apc/jmeter/vizualizers/cross.png
+END
+tick.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1872/trunk/plugins/src/kg/apc/jmeter/vizualizers/tick.png
+END
